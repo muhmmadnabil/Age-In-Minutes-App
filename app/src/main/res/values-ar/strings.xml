@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculate_your">احسب</string>
+    <string name="age">عمرك</string>
+    <string name="in_minutes">فى دقائق</string>
+    <string name="selected_date">العمر المختار</string>
+    <string name="age_in_days">عمرك ب الايام</string>
+    <string name="age_in_minutes">عمرك بالدقائق</string>
+    <string name="select_date">اختر العمر</string>
+</resources>

@@ -48,7 +48,7 @@
         android:background="@color/design_dark_default_color_secondary"
         android:gravity="center"
         android:padding="10dp"
-        android:text="SELECT DATE"
+        android:text="@string/select_date"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold" />
